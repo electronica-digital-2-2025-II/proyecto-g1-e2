@@ -5,10 +5,10 @@
 
 # Integrantes
 
-Anderson Camilo Rosero Yela
-David Esteban Becerra López
-Laura Daniela Zambrano Guacheta
-osé Luis Pulido Fonseca
+Anderson Camilo Rosero Yela <br>
+David Esteban Becerra López <br>
+Laura Daniela Zambrano Guacheta <br>
+José Luis Pulido Fonseca <br>
 
 Indice:
 
