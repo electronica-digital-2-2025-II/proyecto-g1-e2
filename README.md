@@ -23,7 +23,7 @@ Indice:
 
 ## Informe
 
-[Project Documentation](file:///home/kuper3710/Downloads/Digital_2_Proyecto-1.pdf)
+[Project Documentation](https://drive.google.com/file/d/1UKX5NK-716cj64Dj2d1qBvZjCLy8z8T3/view?usp=sharing)
 
 
 ## Implementación
