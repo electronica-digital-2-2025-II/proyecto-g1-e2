@@ -23,7 +23,8 @@ Indice:
 
 ## Informe
 
-<!-- Link que permita acceder al Informe, el cual debe estar subido a este repositorio -->
+[Project Documentation](file:///home/kuper3710/Downloads/Digital_2_Proyecto-1.pdf)
+
 
 ## Implementación
 
